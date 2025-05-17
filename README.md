@@ -18,10 +18,10 @@ demonstrando assim uma abordagem dinâmica e evolutiva em minha carreira.
 - 👀 I’m interested in ... Fullstack Development
 - 🌱 I’m currently learning ... Language 'C' & REACT.js
 - 💞️ I’m looking to collaborate on ... provided team interaction skills along with communication and empathy, adding experiences (SoftSkills) in team leadership and collaborative work.
-- 📫 How to reach me ... (https://allanronaldmelo@gmail.com)
+- 📫 How to reach me ... (https://allanronaldmelo@gmail.com) 
 - 😄 Pronouns: Proactive, Empathetic, Peacemaker, Observant, Patient...
 - ⚡ Hobbies: Musician, Reader, Skater...
-
+- 👀 My Portfolio: (https://curious-kangaroo-e64fcb.netlify.app/)
 <!---
 AllanVasconceL0s/AllanVasconceL0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
